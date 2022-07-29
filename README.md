@@ -1,2 +1,2 @@
 # School Index Number Generator 
-Click Here [Here](https://heroku.com/deploy)
+#Click Here [Here](https://replit.com/@zenoi/Exam-API#index.js)
