@@ -6,7 +6,7 @@
   "keywords": ["NOIZE", "Tharindu Liyanage", "whatsapp bot", "GARFIELD BOT", "Whatsapp"],
   "buildpacks": [
    {
-      "url": "heroku/nodejs"
+      "url": "heroku buildpacks"
     }
   ]
 }
