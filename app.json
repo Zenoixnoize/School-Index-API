@@ -1,0 +1,27 @@
+{
+  "name": "Idex API",
+  "description": "Codded By Tharindu",
+  "repository": "https://github.com/Zenoixnoize/School-Index-API",
+  "logo": "https://i.ibb.co/G2bpd2B/Pics-Art-22-03-26-14-51-06-509.png",
+  "keywords": ["NOIZE", "Tharindu Liyanage", "whatsapp bot", "GARFIELD BOT", "Whatsapp"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+            "url": "https://github.com/yespark/heroku-imagemagick-buildpack"
+        },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
