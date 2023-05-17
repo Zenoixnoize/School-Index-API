@@ -8,5 +8,5 @@
  
 
 <h2>Project By Tharindu Liyanage<h2>
-    <b><table><tr><th>Tharindu Liyanage</th></tr><tr><td><a href="https://github.com/Zenoixnoize"><img src="https://i.ibb.co/VNDz0TD/IMG-20220728-121559.jpg" width="180"</td></tr></b>
+    <b><table><tr><th>Tharindu Liyanage</th></tr><tr><td><a href="https://github.com/Zenoixnoize"><img src="https://i.ibb.co/LnPxzfT/Picsart-23-04-13-22-49-13-979.png" width="180"</td></tr></b>
 
